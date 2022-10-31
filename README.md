@@ -1,1 +1,2 @@
-# aviator
+# Aviator game
+Aviator is a very interesting game in the BetWay Collection. It is very simple. Participants take off on a flight that can be ended at any moment. They try to guess how high the plane is going to fly. They can also pick the correct odds (upto x100). Each round starts with decimal fractions. They increase rapidly as the airliner is flying. To win at [aviator betway](https://aviator-game.co.in/play-aviator-betway/) you have to stop the game prior to the plane leaves the screen.
